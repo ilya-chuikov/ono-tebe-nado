@@ -1,1 +1,1 @@
-https://github.com/ilya-chuikov/ono-tebe-nado/tree/main
+https://github.com/ilya-chuikov/ono-tebe-nado
