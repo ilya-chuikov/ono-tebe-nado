@@ -1,1 +1,1 @@
-git@github.com:ilya-chuikov/ono-tebe-nado-fd.git
+https://github.com/ilya-chuikov/ono-tebe-nado/tree/main
