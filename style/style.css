@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    max-width: 1100px;
+}
+.header {
+    display: grid;
+    grid-template-rows:repeat (3, 1fr);
+    justify-content: space-between;
+    justify-items: start;
+    box-sizing: border-box;
+    padding: 92px 474px 94px 478px;
+}
+.header-menu {
+    padding: 133px 659px 138px 50px;
+}
+.header-logo {
+    
+}
