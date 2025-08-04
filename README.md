@@ -1,1 +1,0 @@
-git@github.com:ilya-chuikov/ono-tebe-nado-fd.git
